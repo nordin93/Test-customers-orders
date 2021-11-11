@@ -9,3 +9,4 @@ L'utente deve essere in grado di autenticarsi. (Nota, l'utente autenticato verr√
 * Quando viene cancellato un Ordine, viene cancellato il Contratto
 * Quando viene cancellato un Cliente, vengono cancellato tutti gli Ordini e tutti i Contratti appartenenti a quel Cliente.
 * Tutte le cancellazioni devono essere recuperabili.
+# Test-customers-orders
