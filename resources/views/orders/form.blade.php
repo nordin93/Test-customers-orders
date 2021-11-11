@@ -16,7 +16,7 @@
     <div class="col-4">
       <div class="form-group">
         <label>Cost</label>
-        <input type="number" name="cost" class="form-control" required>
+        <input type="number" min="0" name="cost" class="form-control" required>
       </div>
     </div>
     <div class="col-6">

@@ -1,5 +1,16 @@
 ## TempCRM
 
+* First || Dopo la clonazione del progetto o download
+ * lanciare i seguenti comandi dal terminale:
+    * composer update 
+    * composer install 
+    * cp .env.example .env
+    * php artisan key:generate
+    * php artisan migrate
+ * poi avviare il servere:
+    * php artisan serve
+
+
 L'utente deve essere in grado di autenticarsi. (Nota, l'utente autenticato verrà considerato admin).
 
 * L'utente deve essere in grado di creare Clienti
